@@ -1,0 +1,18 @@
+﻿  CS.cpp
+D:\Учёба\CS\CS\CS.cpp(13,1): warning C4005: 'IP_DEST_NET_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(173): message : see previous definition of 'IP_DEST_NET_UNREACHABLE'
+D:\Учёба\CS\CS\CS.cpp(14,1): warning C4005: 'IP_DEST_HOST_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(174): message : see previous definition of 'IP_DEST_HOST_UNREACHABLE'
+D:\Учёба\CS\CS\CS.cpp(15,1): warning C4005: 'IP_DEST_PROT_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(175): message : see previous definition of 'IP_DEST_PROT_UNREACHABLE'
+D:\Учёба\CS\CS\CS.cpp(16,1): warning C4005: 'IP_DEST_PORT_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(176): message : see previous definition of 'IP_DEST_PORT_UNREACHABLE'
+D:\Учёба\CS\CS\CS.cpp(17,1): warning C4005: 'IP_REQ_TIMED_OUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(181): message : see previous definition of 'IP_REQ_TIMED_OUT'
+D:\Учёба\CS\CS\CS.cpp(18,1): warning C4005: 'IP_BAD_REQ': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(182): message : see previous definition of 'IP_BAD_REQ'
+D:\Учёба\CS\CS\CS.cpp(19,1): warning C4005: 'IP_BAD_ROUTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(183): message : see previous definition of 'IP_BAD_ROUTE'
+D:\Учёба\CS\CS\CS.cpp(20,1): warning C4005: 'IP_TTL_EXPIRED_TRANSIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ipexport.h(184): message : see previous definition of 'IP_TTL_EXPIRED_TRANSIT'
+  CS.vcxproj -> D:\Учёба\CS\Debug\CS.exe
